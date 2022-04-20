@@ -5,3 +5,6 @@
 
 ![SS_PAM_2](https://user-images.githubusercontent.com/90993802/164237165-5f87819e-6bc4-4f5f-b30e-889de2283551.jpg)
 
+![SS_PAM_3](https://user-images.githubusercontent.com/90993802/164237357-170fbfbd-e52a-4aeb-89dc-9f5e0a5f890a.jpg)
+
+
