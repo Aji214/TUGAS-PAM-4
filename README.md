@@ -7,4 +7,6 @@
 
 ![SS_PAM_3](https://user-images.githubusercontent.com/90993802/164237357-170fbfbd-e52a-4aeb-89dc-9f5e0a5f890a.jpg)
 
+![SS_PAM_4](https://user-images.githubusercontent.com/90993802/164237816-90acd68e-4383-42b7-a283-1bf14194343d.jpg)
+
 
