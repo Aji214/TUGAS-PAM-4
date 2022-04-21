@@ -2,9 +2,12 @@
 Nama Aplikasi : Aplikasi Wisata Maps  (RA-Tri Aji Bagaskara -119140214-Tugas Individu 4.apk)
 
 ## Deskripsi Aplikasi
+Aplikasi Wisata Maps merupakan sebuah aplikasi yang dapat memberikan titik lokasi wisata yang terdapat di jakarta dan juga berisi detail mengenai wisata tersebut
 
 
 
+
+## Daftar Package Yang Digunakan
 
 
 ## cara Install aplikasi
