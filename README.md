@@ -1,5 +1,5 @@
 # TUGAS-PAM-4
-Nama Aplikasi : Kontak handphone RA 119140214 (RA-Tri Aji Bagaskara -119140214-Tugas Individu 4.apk)
+Nama Aplikasi : Aplikasi Kontak Android  (RA-Tri Aji Bagaskara -119140214-Tugas Individu 4.apk)
 
 
 
