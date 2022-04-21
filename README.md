@@ -19,6 +19,3 @@ Nama Aplikasi : Kontak handphone RA 119140214 (RA-Tri Aji Bagaskara -119140214-T
 ### langkah terakhir silahkan masukan google api anda ke dalam app.json lalu jalankan dengan expo start.
 
 
-File Drive
-Download Aplikasi Pada Link Berikut, Kemudian Instal Pada Android Anda 
-
