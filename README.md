@@ -8,14 +8,14 @@ Aplikasi Wisata Maps merupakan sebuah aplikasi yang dapat memberikan titik lokas
 
 
 ## Daftar Package Yang Digunakan
-
 ### -react-navigation/native react-navigation
-### -react-navigation-tabs
-### -react-native-gesture-handler
-### -react-native-reanimated
-### -react-native-screens
-### -react-native-safe-area-context
 ### -react-native-maps
+### -react-native-safe-area-context
+### -react-native-screens
+### -react-native-reanimated
+### -react-native-gesture-handler
+
+
 
 
 ## cara Install aplikasi
