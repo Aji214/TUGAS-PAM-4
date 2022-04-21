@@ -21,8 +21,15 @@ Aplikasi Wisata Maps merupakan sebuah aplikasi yang dapat memberikan titik lokas
 
 
 
-## cara Install aplikasi
-### jika ingin menginstall aplikasi yang versi apk,maka cukup download file apk yang sudah saya sediakan lalu instal apk tersebut di android anda
+## Install aplikasi
+### File Drive
+Download Aplikasi Pada Link Berikut :
+https://drive.google.com/file/d/1HALBvmHjRfgO-OwoeGxnxxZpRba-pmHS/view?usp=sharing
+Kemudian Instal Pada Android Anda
+atau
+download file apk yang sudah saya sediakan di github
+
+
 
 ### jika ingin run aplikasi via expo go maupun emulator maka anda harus menginstall semua package atau dependencie yang saya gunakan terlebih dahulu ke dalam project yang anda buat
 ### setelah itu silahkan masukan semua file js dan juga file babel config beserta yang lainnya ke dalam project anda
